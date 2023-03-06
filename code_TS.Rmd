@@ -1,0 +1,10 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+# Loading dataset
+```{r}
+data <-read.csv("C:/Users/Simone/Documents/Desktop/Time_Series_Forecasting_Prediction/data2022_train.csv")
+data
+```
+
